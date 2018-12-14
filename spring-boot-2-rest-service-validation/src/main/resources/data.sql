@@ -1,5 +1,2 @@
-insert into student
-values(10001,'Ranga', 'E1234567');
-
-insert into student
-values(10002,'Ravi', 'A1234568');
+INSERT INTO student VALUES (10001,'Do Nhu Vy', 'E1234567');
+INSERT INTO student VALUES (10002,'Nguyen Bich Van', 'A1234568');
